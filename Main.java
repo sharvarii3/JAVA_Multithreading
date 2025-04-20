@@ -1,6 +1,6 @@
-// Name: Pooja Ramdas
-// PRN no.: 23070126091
-// Batch: AIML B-1 (2023-2027)
+// Name: Sharvari Godbole
+// PRN no.: 23070126117
+// Batch: AIML B-2 (2023-2027)
 
 public class Main {
     public static void main(String[] args) {
